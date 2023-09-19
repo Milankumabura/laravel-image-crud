@@ -1,0 +1,3 @@
+*.sqlite*
+Ignore .env file
+.env
